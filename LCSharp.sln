@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quests", "Quests", "{19458F77-3CC5-4372-8B38-E8BB2EE8D17E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCSharp.Array.Tests", "LCSharp.Array.Tests\LCSharp.Array.Tests.csproj", "{F20966D2-C7F6-46DD-B276-AB3363F17DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCSharp.Array.Library", "LCSharp.Array.Library\LCSharp.Array.Library.csproj", "{8DDC472D-AD42-4D03-A41B-09D786C82AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCSharp.Sandbox", "LCSharp.Sandbox\LCSharp.Sandbox.csproj", "{9F3CCF02-9C3A-4C74-8DD4-40A4790F9B1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20966D2-C7F6-46DD-B276-AB3363F17DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20966D2-C7F6-46DD-B276-AB3363F17DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20966D2-C7F6-46DD-B276-AB3363F17DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20966D2-C7F6-46DD-B276-AB3363F17DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DDC472D-AD42-4D03-A41B-09D786C82AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDC472D-AD42-4D03-A41B-09D786C82AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDC472D-AD42-4D03-A41B-09D786C82AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDC472D-AD42-4D03-A41B-09D786C82AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3CCF02-9C3A-4C74-8DD4-40A4790F9B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3CCF02-9C3A-4C74-8DD4-40A4790F9B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3CCF02-9C3A-4C74-8DD4-40A4790F9B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3CCF02-9C3A-4C74-8DD4-40A4790F9B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F20966D2-C7F6-46DD-B276-AB3363F17DA2} = {19458F77-3CC5-4372-8B38-E8BB2EE8D17E}
+		{8DDC472D-AD42-4D03-A41B-09D786C82AAB} = {19458F77-3CC5-4372-8B38-E8BB2EE8D17E}
+	EndGlobalSection
+EndGlobal
