@@ -1,5 +1,8 @@
 ﻿namespace LCSharp.Array.Library;
 
+/// <summary>
+/// Service that contains solution for array quest 2
+/// </summary>
 public class ArrayStirrerService
 {
     public int[] Shuffle(int[] nums, int n)
