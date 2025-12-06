@@ -34,9 +34,9 @@ Return *the array* ```ans```.
 
 ---
 
-**Мои задачи:**
-- [x] Описать функцию, которая будет возвращать из исходного массива - ее увеличенную форму [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayConcatenationService.cs)
-- [x] Написать тесты для функции, которые будут включать примеры из данной задачи [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayConcatenationTest.cs)
+**Задачи:**
+- [x] Описать метод, который будет возвращать из исходного массива - ее увеличенную форму [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayConcatenationService.cs)
+- [x] Написать тесты для метода, который будут включать примеры из данной задачи [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayConcatenationTest.cs)
 
 ### Q2 Shuffle the Array
 
@@ -60,6 +60,28 @@ Given the array ```nums``` consisting of ```2n``` elements in the form ```[x1, x
 
 ---
 
-**Мои задачи:**
-- [x] Описать функцию, которая будет выполнять перемешивание массива по вводным данным [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayStirrerService.cs)
-- [x] Написать тесты для функции, которые будут включать примеры из данной задачи [сслыка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayStirrerTest.cs)
+**Задачи:**
+- [x] Описать метод, который будет выполнять перемешивание массива по вводным данным [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayStirrerService.cs)
+- [x] Написать тесты для метода, который будут включать примеры из данной задачи [сслыка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayStirrerTest.cs)
+
+
+### Q3 Max Consecutive Ones
+
+Given a binary array ```nums```, return *the maximum number of consecutive* ```1```'s *in the array* 
+
+**Example 1:**
+> **Input:** nums = [1, 1, 0, 1, 1, 1]
+> **Output:** 3
+> **Explanation:** The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+
+**Exmaple 2:**
+> **Input:** nums = [1, 0, 1, 1, 0, 1]
+> **Output:** 2
+
+**Constraints:**
+- ```1 <= nums.length <= 10**5```
+- ```nums[i]``` is either ```0``` or ```1```.
+
+**Задачи**
+- [x] Описать метод, который будет считать последовательное расположение единиц в массиве
+- [x] Написать тесты для проверки правильной отработки счётчика
