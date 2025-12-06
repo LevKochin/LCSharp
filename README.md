@@ -35,8 +35,8 @@ Return *the array* ```ans```.
 ---
 
 **Мои задачи:**
-- [ ] Описать функцию, которая будет возвращать из исходного массива - ее увеличенную форму
-- [ ] Написать тесты для функции, которые будут включать примеры из данной задачи
+- [x] Описать функцию, которая будет возвращать из исходного массива - ее увеличенную форму [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayConcatenationService.cs)
+- [x] Написать тесты для функции, которые будут включать примеры из данной задачи [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayConcatenationTest.cs)
 
 ### Q2 Shuffle the Array
 
@@ -61,5 +61,5 @@ Given the array ```nums``` consisting of ```2n``` elements in the form ```[x1, x
 ---
 
 **Мои задачи:**
-- [ ] Описать функцию, которая будет выполнять перемешивание массива по вводным данным
-- [ ] Написать тесты для функции, которые будут включать примеры из данной задачи
+- [x] Описать функцию, которая будет выполнять перемешивание массива по вводным данным [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayStirrerService.cs)
+- [x] Написать тесты для функции, которые будут включать примеры из данной задачи [сслыка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayStirrerTest.cs)
