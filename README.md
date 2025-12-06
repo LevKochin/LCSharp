@@ -83,5 +83,5 @@ Given a binary array ```nums```, return *the maximum number of consecutive* ```1
 - ```nums[i]``` is either ```0``` or ```1```.
 
 **Задачи**
-- [x] Описать метод, который будет считать последовательное расположение единиц в массиве
-- [x] Написать тесты для проверки правильной отработки счётчика
+- [x] Описать метод, который будет считать последовательное расположение единиц в массивеp [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Library/ArrayConsecutiveCounterService.cs)
+- [x] Написать тесты для проверки правильной отработки счётчика [ссылка](https://github.com/LevKochin/LCSharp/blob/main/LCSharp.Array.Tests/ArrayConsecutiveCounterTest.cs)
